@@ -11,3 +11,4 @@ spec:
     - ./groups/default-org.yaml
     - ./systems/backstage-system.yaml
     - ./domains/backstage-domain.yaml
+    - https://github.com/sample-accelerators/tanzu-java-web-app/blob/main/accelerator.yaml
