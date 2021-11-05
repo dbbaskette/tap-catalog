@@ -1,4 +1,4 @@
-site_name: 'Backstage demo catalog'
+site_name: 'TAP-GUI Beta3 catalog'
 
 nav:
   - The Catalog: index.md
