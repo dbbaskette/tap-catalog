@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: petclinic
+  description: Spring PetClinic
+  annotations:
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=petclinic-server'
+spec:
+  type: service
+  lifecycle: demo
+  owner: default-team
+  system:
